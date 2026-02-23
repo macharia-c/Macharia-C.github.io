@@ -1,5 +1,5 @@
 ---
-title: "introduction to infosec"
+title: "Introduction to Infosec"
 category: [cybersecurity.web]
 tags: [infosec, vulnerability-assessment]
 ---
